@@ -1,0 +1,17 @@
+Plan of developing of internets`s shop project
+----------------
+C# without locale file and GUI
+1) Add/delete product at safehouse (articule/name/price/count)
+2) Add/delete product at basket (Error if safehouse hasn`t prod.)
+3) Calculate summ
+4) Clear safehouse/basket
+5) Navigate at store (Basket/list_of_prod)
+-----------------
+C# with locale file, but without GUI
+6) Carry all data at locale file
+-----------------
+C# with locale and GUI
+7) Add GUI
+-----------------
+C# with SQL
+8) IDK))))))))
