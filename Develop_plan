@@ -1,11 +1,9 @@
-Plan of developing of internets`s shop project
+Plan of developing of ticket`s store (train or airplane) project
 ----------------
 C# without locale file and GUI
-1) Add/delete product at safehouse (articule/name/price/count)
-2) Add/delete product at basket (Error if safehouse hasn`t prod.)
-3) Calculate summ
-4) Clear safehouse/basket
-5) Navigate at store (Basket/list_of_prod)
+1) Add/delete place
+2) Calculate summ
+3) Navigate at store (purchase/viewing/return)
 -----------------
 C# with locale file, but without GUI
 6) Carry all data at locale file

@@ -1,2 +1,2 @@
-Here we create a internet-magazine))))))))
+Here we create a ticket store))))))))
 C# and SQL)
